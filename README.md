@@ -28,17 +28,6 @@
 - Domain Knowledge: Control Systems Theory, Optimization Methods, System Identification, Multivariable & Nonlinear Control, Sensitivity Analysis, Monte Carlo Simulation
 - Interpersonal Skills: Teamwork and Collaboration, Problem-Solving, Communication, and Presentation
 
-<h3 align="left">Projects:</h3>
-<p align="left">
-  
-  - Designed and implemented model predictive control on a coupled tank process.
-  
-  - Performed control configuration selection for multivariable plants using RGA, DRGA, and other methods.
- 
-  - Developed nonlinear optimal control for spacecraft attitude tracking.
-
-  - Implemented PID control for a nonminimum phase quadruple spherical tank process.
-</p>
 
 <h3 align="left">Contact:</h3>
 <p align="left">
