@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Moein Sarbandi</h1>
-<h3 align="center">Passionate about Control Engineering | Aspiring Researcher | Seeking Ph.D. Opportunity</h3>
+<h3 align="center">Passionate about Control Engineering| FOWT | Researcher </h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/moein-sarbandi/" target="_blank">
@@ -12,7 +12,7 @@
 
 <h3 align="left">About Me:</h3>
 <p align="left">
-  I am a passionate control engineering specialist with a master's degree in Electrical Engineering from K.N. Toosi University of Technology. I have a strong background in control systems, optimization, system identification, and multivariable control. I am highly interested in pursuing a Ph.D. to further my research capabilities, particularly in the field of control theory and machine learning.
+  I am a passionate control engineering specialist with a master's degree in Electrical Engineering from K.N. Toosi University of Technology. I have a strong background in control systems, optimization, system identification, and multivariable control.
 </p>
 
 <h3 align="left">Skills:</h3>
